@@ -1,0 +1,24 @@
+{
+  "name": "sicbo-prediction-api",
+  "version": "1.0.0",
+  "description": "A robust Sic Bo prediction API with advanced AI algorithms.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sicbo",
+    "prediction",
+    "api",
+    "nodejs",
+    "express",
+    "ai",
+    "analysis"
+  ],
+  "author": "AI Refactored",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  }
+}
